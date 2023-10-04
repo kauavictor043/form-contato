@@ -1,3 +1,21 @@
+# indici
+* [form](#form)
+* [label](#label)
+* [input](#input)
+* [input=type](#input--types)
+* [span](#span)
+* [Textarea](#textarea)
+* [Button](#button)
+
+# formulario 
+ferramentas usadas:
+html5 e css3
+e o site da mozila 
+
+colegas que ajuou no projeto: 
+Matheus rocha 
+Daniel 
+
 # formulario de contato
 
 # `<Form>`
@@ -21,11 +39,3 @@ O elemento HTML &lt;textarea&gt; representa um controle de edição de texto sim
 # `<Button>`
 O elemento HTML &lt;button&gt; é um elemento interativo ativado por um usuário com mouse, teclado, dedo, comando de voz ou outra tecnologia assistiva. Uma vez ativado, ele executa uma ação, como enviar um formulário ou abrir uma caixa de diálogo.
 
-# formulario 
-ferramentas usadas:
-html5 e css3
-e o site da mozila 
-
-colegas que ajuou no projeto: 
-Matheus rocha 
-Daniel 
